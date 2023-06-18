@@ -35,3 +35,12 @@ https://timell.pages.dev/clash/proxies
 https://pxypool.131433.xyz/clash/proxies
 https://proxypool1999.banyunxiaoxi.icu/clash/proxies
 http://150.158.36.61:8082/clash/proxies
+https://proxypool.link/clash/proxies
+https://proxy.yugogo.xyz/clash/proxies
+http://1.14.59.143:12580/clash/proxies
+https://free.jingfu.cf/clash/proxies
+http://proxies.haisto.cn/clash/proxies
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+https://free.iam7.tk/clash/proxies
+http://beetle.lander.work/clash/proxies
+https://free.dsdog.tk/clash/proxies
