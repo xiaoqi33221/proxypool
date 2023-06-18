@@ -44,3 +44,9 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 https://free.iam7.tk/clash/proxies
 http://beetle.lander.work/clash/proxies
 https://free.dsdog.tk/clash/proxies
+
+## 20230619 更新
+http://69.31.134.203:9443/clash/proxies
+https://101.64.235.243:8443/clash/proxies
+https://101.64.235.179:8443/clash/proxies
+
