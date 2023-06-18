@@ -16,3 +16,11 @@ http://zixibar.net:12580/clash/proxies
 http://20.212.248.250:12588/clash/proxies
 https://zhfree.onrender.com/clash/proxies
 https://proxy.fldhhhhhh.top/clash/proxies
+http://216.83.40.121:12580/clash/proxies
+http://146.56.185.90:12580/clash/proxies
+http://150.230.251.224:12580/clash/proxies
+http://jeplove.f3322.net:12580/clash/proxies
+https://fetchjiedian.feisu360.xyz/clash/proxies
+http://brovee.myds.me:12580/clash/proxies
+http://89.117.90.140:12580/clash/proxies
+http://146.56.97.77:12580/clash/proxies
