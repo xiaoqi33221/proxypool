@@ -3,3 +3,45 @@
   options:
     channel: kxswa
     num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ShareCentrePro
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: jiedian_share
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: jiedian_share
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: JiedianSsr
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: zerobaipiao
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: zerobaipiao
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: freeV2rayi
+    num: 50
