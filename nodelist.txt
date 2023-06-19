@@ -53,4 +53,6 @@ https://da.aosijdqioj.tk/clash/proxies
 https://clashe.eu.org/clash/proxies
 https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
 https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
+https://pp.tuoba.space:8443/clash/proxies
+https://zhfree.onrender.com/clash/proxies
 
