@@ -49,4 +49,8 @@ https://free.dsdog.tk/clash/proxies
 http://69.31.134.203:9443/clash/proxies
 https://101.64.235.243:8443/clash/proxies
 https://101.64.235.179:8443/clash/proxies
+https://da.aosijdqioj.tk/clash/proxies
+https://clashe.eu.org/clash/proxies
+https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
 
