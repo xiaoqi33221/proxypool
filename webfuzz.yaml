@@ -7,3 +7,8 @@
 - type: webfuzz
   options:
     url: https://itlao6.com/10962.html
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/kxswa
