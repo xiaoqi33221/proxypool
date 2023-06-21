@@ -13,7 +13,7 @@
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: jiedian_share
+    channel: kejixm123
     num: 50
 
 # tg频道抓取
@@ -37,11 +37,17 @@
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: zerobaipiao
+    channel: baipiaowansui
     num: 50
 
 # tg频道抓取
 - type: tgchannel
   options:
     channel: freeV2rayi
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: xrayfree
     num: 50
