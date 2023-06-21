@@ -1,0 +1,9 @@
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/mianfeifq/share/main/README.md
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://itlao6.com/10962.html
