@@ -22,3 +22,8 @@
 - type: webfuzzsub
   options:
     url: https://tg.i-c-a.su/rss/baipiaowansui
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/FreeVpnChina
