@@ -32,3 +32,8 @@
 - type: webfuzzsub
   options:
     url: https://tg.i-c-a.su/rss/masco899
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/dingyue_Center

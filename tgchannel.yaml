@@ -51,3 +51,9 @@
   options:
     channel: ShareCentrePro
     num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: mftizi
+    num: 50
