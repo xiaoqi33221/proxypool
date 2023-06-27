@@ -37,3 +37,8 @@
 - type: webfuzzsub
   options:
     url: https://tg.i-c-a.su/rss/dingyue_Center
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/baipiaozero
