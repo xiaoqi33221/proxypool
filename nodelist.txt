@@ -59,3 +59,7 @@ https://zhfree.onrender.com/clash/proxies
 ## 20230622 更新
 https://sub.sharecentre.online/sub
 
+## 20230627 更新
+https://raw.githubusercontent.com/vpei/free-node-1/main/o/proxies.txt
+https://sub.pmsub.me/clash.yaml
+
