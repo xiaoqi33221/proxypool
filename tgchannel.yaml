@@ -63,3 +63,21 @@
   options:
     channel: jiuJieD
     num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: hkaa0
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: V2ray60
+    num: 50
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: bpjzx2
+    num: 50
