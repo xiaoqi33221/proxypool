@@ -1,89 +1,69 @@
-# tg频道抓取
-- type: tgchannel
+# 网页模糊抓取
+- type: webfuzz
   options:
-    channel: ShareCentrePro
-    num: 50
+    url: https://tg.i-c-a.su/rss/kejixm123
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: kejixm123
-    num: 50
+    url: https://tg.i-c-a.su/rss/zerobaipiao
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: zerobaipiao
-    num: 50
+    url: https://tg.i-c-a.su/rss/baipiaowansui
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: baipiaowansui
-    num: 50
+    url: https://tg.i-c-a.su/rss/freeV2rayi
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: freeV2rayi
-    num: 50
+    url: https://tg.i-c-a.su/rss/aifenxiang2020
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: aifenxiang2020
-    num: 50
+    url: https://tg.i-c-a.su/rss/souqun8816
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: souqun8816
-    num: 50
+    url: https://tg.i-c-a.su/rss/ShareCentrePro
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: ShareCentrePro
-    num: 50
+    url: https://tg.i-c-a.su/rss/mftizi
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: mftizi
-    num: 50
+    url: https://tg.i-c-a.su/rss/jiuJieD
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: jiuJieD
-    num: 50
+    url: https://tg.i-c-a.su/rss/hkaa0
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: hkaa0
-    num: 50
+    url: https://tg.i-c-a.su/rss/V2ray60
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: V2ray60
-    num: 50
+    url: https://tg.i-c-a.su/rss/bpjzx2
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: bpjzx2
-    num: 50
+    url: https://tg.i-c-a.su/rss/FreeV2rays
 
 # tg频道抓取
-- type: tgchannel
+- type: webfuzz
   options:
-    channel: FreeV2rays
-    num: 50
-
-# tg频道抓取
-- type: tgchannel
-  options:
-    channel: gekujd
-    num: 50
+    url: https://tg.i-c-a.su/rss/gekujd
