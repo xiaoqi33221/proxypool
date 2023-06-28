@@ -63,3 +63,9 @@ https://sub.sharecentre.online/sub
 https://raw.githubusercontent.com/vpei/free-node-1/main/o/proxies.txt
 https://sub.pmsub.me/clash.yaml
 
+## 20230628 更新
+http://104.168.244.47:12580/clash/proxies
+http://47.87.191.86:12580/clash/proxies
+http://107.173.149.71:12580/clash/proxies
+https://laxcity.pages.dev/clash/proxies
+
