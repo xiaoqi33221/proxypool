@@ -11,11 +11,6 @@
 # 网页模糊抓取
 - type: webfuzzsub
   options:
-    url: https://tg.i-c-a.su/rss/kxswa
-
-# 网页模糊抓取
-- type: webfuzzsub
-  options:
     url: https://tg.i-c-a.su/rss/jiedian_share
 
 # 网页模糊抓取
