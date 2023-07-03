@@ -69,7 +69,7 @@ http://47.87.191.86:12580/clash/proxies
 http://107.173.149.71:12580/clash/proxies
 https://laxcity.pages.dev/clash/proxies
 
-## 20230628 更新
+## 20230701 更新
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
 https://freefq.neocities.org/free.txt
 https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/Clash.yaml

@@ -1,0 +1,100 @@
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/jiedian_share
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/baipiaowansui
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/FreeVpnChina
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/masco899
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/dingyue_Center
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://tg.i-c-a.su/rss/baipiaozero
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/kejixm123
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/zerobaipiao
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/baipiaowansui
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/freeV2rayi
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/aifenxiang2020
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/souqun8816
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/ShareCentrePro
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/mftizi
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/jiuJieD
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/hkaa0
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/V2ray60
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/bpjzx2
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/FreeV2rays
+
+# tg频道抓取
+- type: webfuzz
+  options:
+    url: https://tg.i-c-a.su/rss/gekujd
