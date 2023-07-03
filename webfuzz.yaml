@@ -17,3 +17,8 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/README.md
+
+# 网页模糊抓取
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md

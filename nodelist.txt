@@ -76,3 +76,7 @@ https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/Clash.yaml
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1
+https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
+
+## 20230703 更新
+https://raw.githubusercontent.com/resasanian/Mirza/main/best
