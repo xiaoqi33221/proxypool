@@ -115,3 +115,4 @@ http://2.50.75.82:7777/clash/proxies
 https://129.152.6.169/clash/proxies
 https://clash.myvm.cc/clash/proxies
 https://zhfree.alienergy.eu.org/clash/proxies
+https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_yaml.yml
