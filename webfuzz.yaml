@@ -48,3 +48,8 @@
   options:
     url: https://raw.githubusercontent.com/hicloudi/officialinquire/main/README.md
 
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/yaney01/Yaney01/main/README.md
+
+
