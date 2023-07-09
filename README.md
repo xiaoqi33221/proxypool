@@ -6,3 +6,6 @@
 Super clash node pool aggregation.
 Update when I have time.
 Welcome to contribute and share free nodes.
+
+## 免费ss、ssr、vmess、trojan节点订阅地址
+https://wanshanziwo.eu.org
