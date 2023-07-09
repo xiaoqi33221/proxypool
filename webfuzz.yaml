@@ -42,3 +42,9 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/All_Configs_Sub.txt
+
+# 20230709
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/hicloudi/officialinquire/main/README.md
+

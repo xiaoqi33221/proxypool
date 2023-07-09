@@ -114,3 +114,9 @@ https://129.152.6.169/clash/proxies
 https://clash.myvm.cc/clash/proxies
 https://zhfree.alienergy.eu.org/clash/proxies
 https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_yaml.yml
+
+## 20230709 更新
+https://raw.githubusercontent.com/nasheep/FreeNode/main/clash/PlayLab
+https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/Clash.yaml
+https://raw.githubusercontent.com/resasanian/Mirza/main/vmess
+https://raw.githubusercontent.com/resasanian/Mirza/main/trojan
