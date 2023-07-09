@@ -120,3 +120,4 @@ https://raw.githubusercontent.com/nasheep/FreeNode/main/clash/PlayLab
 https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/Clash.yaml
 https://raw.githubusercontent.com/resasanian/Mirza/main/vmess
 https://raw.githubusercontent.com/resasanian/Mirza/main/trojan
+https://raw.githubusercontent.com/itxve/fetch-clash-node/main/node/ClashNode.yaml
