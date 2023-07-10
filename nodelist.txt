@@ -35,7 +35,6 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
 https://raw.githubusercontent.com/resasanian/Mirza/main/trojan
 https://raw.githubusercontent.com/resasanian/Mirza/main/vmess
-https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
@@ -43,12 +42,9 @@ https://raw.githubusercontent.com/nasheep/FreeNode/main/clash/PlayLab
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 http://146.56.97.77:12580/clash/proxies
 https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
 https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
-https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
 https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 https://raw.githubusercontent.com/itxve/fetch-clash-node/main/node/ClashNode.yaml
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
@@ -56,17 +52,14 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/main/mycustom1.txt
 https://raw.githubusercontent.com/xieshunxi1/subscribe_clash_v2ray/main/subscribe/v2ray.txt
 https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt
-https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
 https://raw.githubusercontent.com/supprise0408/V2RayAggregator/master/sub/airport_merge_base64.txt
 http://20.212.248.250:12588/clash/proxies
 https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
-https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://qiaomenzhuanfx.netlify.app/
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt
 https://raw.githubusercontent.com/pctit/v2/main/v2.txt
-https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
@@ -140,7 +133,6 @@ https://sub.sharecentre.online/sub
 https://proxy.yugogo.xyz/clash/proxies
 https://sub.pmsub.me/clash.yaml
 https://raw.githubusercontent.com/HakurouKen/free-node/main/public
-https://raw.githubusercontent.com/vveg26/get_proxy/main/dist/clash.config.yaml
 https://raw.fastgit.org/freefq/free/master/v2
 https://fastestcloud.xyz/api/v1/client/subscribe?token=1a8e847efd08ecd35201e952b2ac0272
 https://raw.githubusercontent.com/rxsweet/proxies/main/sub/sources/dynamicAll.yaml
@@ -177,7 +169,6 @@ https://muma16fx.netlify.app/
 https://zhfree.onrender.com/clash/proxies
 https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://free.dsdog.tk/clash/proxies
-https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 https://rvorch.treze.cc/clash/proxies
 https://sub.sharecentre.online/sub&flag=clash
 https://fastestcloud.xyz/api/v1/client/subscribe?token=095ba3448e5d99a0cd32a7309d6c60a9
