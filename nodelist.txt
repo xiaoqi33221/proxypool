@@ -26,7 +26,6 @@ https://freefq.neocities.org/free.txt
 https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/Clash.yaml
 https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/main/new1.txt
-https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_yaml.yml
 http://150.230.251.224:12580/clash/proxies
 https://hyt-allen-xu.netlify.app/
 http://138.2.124.26:8080/clash/proxies
@@ -85,7 +84,6 @@ https://raw.githubusercontent.com/voken100g/AutoSSR/master/recent
 https://clashe.eu.org/clash/proxies
 https://proxy.yiun.xyz/clash/proxies
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
-https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt
 https://kiwi2.cgweb.top/clash/proxies
 https://fetchjiedian.feisu360.xyz/clash/proxies
 https://pp.tuoba.space:8443/clash/proxies
@@ -98,7 +96,6 @@ http://2.50.75.82:7777/clash/proxies
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4
 http://141.147.152.35/clash/proxies
 https://raw.githubusercontent.com/ronghuaxueleng/get_v2/main/pub/combine.yaml
-https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_base64.txt
 https://raw.githubusercontent.com/mheidari98/.proxy/main/all
 https://raw.githubusercontent.com/renyige1314/CLASH/main/CLASH
 https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml

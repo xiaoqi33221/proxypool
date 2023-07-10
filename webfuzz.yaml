@@ -57,7 +57,3 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/Kenny-Bob/DIANDIAN/main/point
-
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
