@@ -87,11 +87,6 @@
 # tg频道抓取
 - type: webfuzz
   options:
-    url: https://tg.i-c-a.su/rss/bpjzx2
-
-# tg频道抓取
-- type: webfuzz
-  options:
     url: https://tg.i-c-a.su/rss/FreeV2rays
 
 # tg频道抓取
