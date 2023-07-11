@@ -57,3 +57,8 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/Kenny-Bob/DIANDIAN/main/point
+
+# 20230711
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/AlienVPN402/AlienVPN402-subscribe-servers/main/index.html

@@ -177,3 +177,8 @@ https://ssr.svipcun.com/clash/proxies
 https://proxies.haisto.cn/clash/proxies
 http://proxies.haisto.cn/clash/proxies
 http://rot.9o9.top:880/clash/proxies
+
+https://raw.githubusercontent.com/LonUp/NodeList/main/Clash/Node/Latest.yaml
+https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/trojan.yml
+https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/vmess.yml
+https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/clash_meta/checked.yml
