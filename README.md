@@ -21,13 +21,9 @@ https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
-<br/>
 使用本项目时请遵守相关法律法规。
-<br/>
 项目所有者对内容的使用不承担任何责任。
 <br/>
 This project is meant for personal and educational uses only.
-<br/>
 Please follow relevant laws and regulations when using this project.
-<br/>
 Project owner is not responsible or liable in any manner for the use of the content.
