@@ -177,3 +177,4 @@ https://raw.githubusercontent.com/LonUp/NodeList/main/Clash/Node/Latest.yaml
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/trojan.yml
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/vmess.yml
 https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/clash_meta/checked.yml
+https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml

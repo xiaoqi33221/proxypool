@@ -1,6 +1,9 @@
 # proxypool
 
 ![Static Badge](https://img.shields.io/badge/ss|ssr|vmess|trojan-free-orange)
+<a href="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool" alt="visitor">
+</a>
 [![last commit](https://img.shields.io/github/last-commit/snakem982/proxypool)](https://github.com/snakem982/proxypool/commits/main)
 [![commit activity](https://img.shields.io/github/commit-activity/w/snakem982/proxypool)](https://github.com/snakem982/proxypool/commits/main)
 
