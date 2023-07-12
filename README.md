@@ -16,11 +16,17 @@ Welcome to git issues and share free nodes.
 ## 免费ss、ssr、vmess、trojan节点订阅地址，每小时更新。<br/>Free ss, ssr, vmess, trojan node subscription addresses, updated hourly.
 https://wanshanziwo.eu.org
 
-## 备用订阅地址，两个小时更新一次。<br/>Alternate clash subscription address, updated every two hours.
+## 备用订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
 ### clash
+https://raw.fastgit.ixmu.net/snakem982/proxypool/main/clash.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
+https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
+https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
 ### v2ray
+https://raw.fastgit.ixmu.net/snakem982/proxypool/main/v2ray.txt
 https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
+https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
