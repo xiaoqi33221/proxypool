@@ -31,6 +31,17 @@ https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 
+## <font color="red">特别提醒<br/>Friendly Reminder</font>
+<font color="red">节点来自公开在互联网上的信息，不保证财产信息安全和稳定性。不建议长期使用！！！
+Nodes come from information published on the Internet, 
+which does not guarantee the security and stability of property information. 
+Long-term use is not recommended! ! !</font><br/>
+若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐：
+If you want a continuous, stable, safe, and high-speed node, please build it yourself. 
+The following is a self-built node cost-effective server recommendation:
+- [500G/月Month 100Mbps 1C2G ￥168.00/年Year 香港野草云](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
+- [600G/月Month 100Mbps 2C4G ￥188.00/年Year 香港野草云](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
+
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
 使用本项目时请遵守相关法律法规。
