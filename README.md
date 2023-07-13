@@ -39,8 +39,10 @@ Long-term use is not recommended! ! !</font><br/>
 若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself. 
 The following is a self-built node cost-effective server recommendation:
-- [500G/月Month 100Mbps 1C2G ￥168.00/年Year 香港野草云](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
-- [600G/月Month 100Mbps 2C4G ￥188.00/年Year 香港野草云](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
+- [500G/月Month 100Mbps 1C2G ￥168.00/年Year 香港野草云特惠](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
+- [600G/月Month 100Mbps 2C4G ￥188.00/年Year 香港野草云特惠](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
+- [2000G/月Month 1000Mbps 1C1G $11.38/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
+- [3000G/月Month 1000Mbps 1C2G $19.89/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
 
 ## 免责声明 <br/>Disclaimer
 该项目仅供个人和教育用途。
