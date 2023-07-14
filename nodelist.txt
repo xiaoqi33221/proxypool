@@ -66,7 +66,6 @@ https://laxcity.pages.dev/clash/proxies
 https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx1
 https://raw.githubusercontent.com/rxsweet/proxies/main/sub/sources/staticAll.yaml
 https://free.iam7.tk/clash/proxies
-http://zixibar.net:12580/clash/proxies
 https://raw.githubusercontent.com/jw853355718/clash_233/master/config.yml
 https://raw.githubusercontent.com/wrfree/free/main/v2
 https://raw.githubusercontent.com/rxsweet/proxies/main/sub/sources/miningAll.yaml
@@ -120,7 +119,6 @@ https://raw.githubusercontent.com/sh3d0ww02f/sh3d0ww02f.github.io/main/ssr.confi
 https://pool.sagithome.com/clash/proxies
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 https://pxypool.131433.xyz/clash/proxies
-http://216.83.40.121:12580/clash/proxies
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
 https://raw.githubusercontent.com/jw853355718/clash_233/master/speed.yaml
 https://raw.githubusercontent.com/igeekshare/GeekshareFreeNode/main/v2ray/Geekshare.txt
@@ -169,7 +167,6 @@ https://fastestcloud.xyz/api/v1/client/subscribe?token=cc074c3d3f85299a7eedf57b4
 https://raw.githubusercontent.com/renyige1314/CLASH/main/CLASH
 https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
 https://www.ckcloud.xyz/api/v1/client/subscribe?token=83a44bab68f52c88548ccf85e6688846
-https://ssr.svipcun.com/clash/proxies
 https://proxies.haisto.cn/clash/proxies
 http://proxies.haisto.cn/clash/proxies
 http://rot.9o9.top:880/clash/proxies
