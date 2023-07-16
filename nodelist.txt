@@ -162,7 +162,6 @@ https://sub.sharecentre.online/sub&flag=clash
 https://raw.githubusercontent.com/renyige1314/CLASH/main/CLASH
 https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
 https://proxies.haisto.cn/clash/proxies
-http://proxies.haisto.cn/clash/proxies
 http://rot.9o9.top:880/clash/proxies
 https://raw.githubusercontent.com/LonUp/NodeList/main/Clash/Node/Latest.yaml
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/trojan.yml
