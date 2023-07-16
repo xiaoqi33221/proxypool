@@ -110,7 +110,6 @@ https://raw.githubusercontent.com/ZY-404/v2ray/main/v2ray.txt
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 https://proxy.crazygeeky.com/clash/proxies
 https://raw.githubusercontent.com/Jason05211211/Freerocket/main/freessr
-https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
 https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
 https://raw.githubusercontent.com/Mr8AHAL/v2ray/main/SERVER.txt
 https://raw.githubusercontent.com/freefq/free/master/v2
@@ -143,7 +142,6 @@ https://jiang.netlify.app/
 https://youlianboshi.netlify.app/
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/https
 https://raw.githubusercontent.com/Jia-Pingwa/free-v2ray-merge/main/output.txt
-https://feiniaoyun.xyz/api/v1/client/subscribe?token=823452f7e378a185024811547e50f38a
 https://raw.githubusercontent.com/Mahanfix/v2rayvpn/main/mahanfix
 https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili
 https://sub.pmsub.me/base64
@@ -155,18 +153,14 @@ https://rvorch.treze.cc/clash/proxies
 https://free.zlcom.ml/clash/proxies
 https://hosts.daohangs.xyz/clash/proxies
 https://zhfree.onrender.com/clash/proxies
-https://www.ckcloud.xyz/api/v1/client/subscribe?token=d1133829db484cd1b23d08ae20d887b5
 https://muma16fx.netlify.app/
 https://zhfree.onrender.com/clash/proxies
 https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://free.dsdog.tk/clash/proxies
 https://rvorch.treze.cc/clash/proxies
 https://sub.sharecentre.online/sub&flag=clash
-https://fastestcloud.xyz/api/v1/client/subscribe?token=095ba3448e5d99a0cd32a7309d6c60a9
-https://fastestcloud.xyz/api/v1/client/subscribe?token=cc074c3d3f85299a7eedf57b4f659dd0
 https://raw.githubusercontent.com/renyige1314/CLASH/main/CLASH
 https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
-https://www.ckcloud.xyz/api/v1/client/subscribe?token=83a44bab68f52c88548ccf85e6688846
 https://proxies.haisto.cn/clash/proxies
 http://proxies.haisto.cn/clash/proxies
 http://rot.9o9.top:880/clash/proxies
