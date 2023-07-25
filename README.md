@@ -1,6 +1,6 @@
 # proxypool
 
-![Static Badge](https://img.shields.io/badge/ss|ssr|vmess|trojan-free-orange)
+![Static Badge](https://img.shields.io/badge/ss|vmess|trojan-free-orange)
 <a href="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool" alt="visitor">
 </a>
@@ -29,7 +29,7 @@ The following is a self-built node cost-effective server recommendation:
 - [2000G/月Month 1000Mbps 1C1G $11.38/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
 - [3000G/月Month 1000Mbps 1C2G $19.89/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
 
-## 免费ss、ssr、vmess、trojan节点订阅地址，每小时更新。<br/>Free ss, ssr, vmess, trojan node subscription addresses, updated hourly.
+## 免费ss、vmess、trojan节点订阅地址，每小时更新。<br/>Free ss, vmess, trojan node subscription addresses, updated hourly.
 https://wanshanziwo.eu.org
 
 ## 备用订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
