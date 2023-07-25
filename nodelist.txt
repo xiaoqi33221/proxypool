@@ -30,7 +30,6 @@ https://hyt-allen-xu.netlify.app/
 http://138.2.124.26:8080/clash/proxies
 http://168.138.53.53/clash/proxies
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
-https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
 https://raw.githubusercontent.com/resasanian/Mirza/main/trojan
 https://raw.githubusercontent.com/resasanian/Mirza/main/vmess
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num
@@ -53,7 +52,6 @@ https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
 https://raw.githubusercontent.com/supprise0408/V2RayAggregator/master/sub/airport_merge_base64.txt
 http://20.212.248.250:12588/clash/proxies
-https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/clash.provider.yaml
 https://qiaomenzhuanfx.netlify.app/
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt
