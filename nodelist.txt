@@ -166,3 +166,5 @@ https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/troj
 https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/vmess.yml
 https://raw.githubusercontent.com/RescueNet/TelegramFreeServer/main/clash_meta/checked.yml
 https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml
+https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+https://raw.githubusercontent.com/Flik6/getNode/main/clash.yaml
