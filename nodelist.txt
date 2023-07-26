@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/Clash.yaml
 https://raw.githubusercontent.com/sami-soft/v2rayN_proxy/main/new1.txt
 http://150.230.251.224:12580/clash/proxies
-https://hyt-allen-xu.netlify.app/
 http://138.2.124.26:8080/clash/proxies
 http://168.138.53.53/clash/proxies
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5
@@ -52,7 +51,6 @@ https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
 https://raw.githubusercontent.com/supprise0408/V2RayAggregator/master/sub/airport_merge_base64.txt
 http://20.212.248.250:12588/clash/proxies
-https://qiaomenzhuanfx.netlify.app/
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt
 https://raw.githubusercontent.com/pctit/v2/main/v2.txt
@@ -136,8 +134,6 @@ https://129.152.6.169/clash/proxies
 https://raw.githubusercontent.com/tony0392/clash/main/clash.yaml
 https://raw.githubusercontent.com/Flik6/getNode/main/v2ray.txt
 https://raw.githubusercontent.com/Creativveb/v2configs/main/updated
-https://jiang.netlify.app/
-https://youlianboshi.netlify.app/
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/https
 https://raw.githubusercontent.com/Jia-Pingwa/free-v2ray-merge/main/output.txt
 https://raw.githubusercontent.com/Mahanfix/v2rayvpn/main/mahanfix
@@ -150,7 +146,6 @@ https://rvorch.treze.cc/clash/proxies
 https://free.zlcom.ml/clash/proxies
 https://hosts.daohangs.xyz/clash/proxies
 https://zhfree.onrender.com/clash/proxies
-https://muma16fx.netlify.app/
 https://zhfree.onrender.com/clash/proxies
 https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://free.dsdog.tk/clash/proxies
