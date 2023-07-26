@@ -143,7 +143,6 @@ https://raw.githubusercontent.com/Jia-Pingwa/free-v2ray-merge/main/output.txt
 https://raw.githubusercontent.com/Mahanfix/v2rayvpn/main/mahanfix
 https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili
 https://sub.pmsub.me/base64
-https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all2
 https://raw.githubusercontent.com/Tenerome/v2ray/main/vmess.txt
