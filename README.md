@@ -34,13 +34,11 @@ https://wanshanziwo.eu.org
 
 ## 备用订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
 ### clash
-https://raw.fastgit.ixmu.net/snakem982/proxypool/main/clash.yaml
-https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml  (需要魔法)
 https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
 https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
 ### v2ray
-https://raw.fastgit.ixmu.net/snakem982/proxypool/main/v2ray.txt
-https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt  (需要魔法)
 https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 
