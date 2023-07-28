@@ -6,7 +6,6 @@ http://brovee.myds.me:12580/clash/proxies
 https://proxy.tuoba.space:8443/clash/proxies
 http://1.14.59.143:12580/clash/proxies
 https://101.64.235.179:8443/clash/proxies
-https://101.64.235.179:8443/clash/proxies
 https://n731x88v.v3n.pkoplink.com:8443/clash/proxies
 https://ss.dosec.cn/clash/proxies
 http://47.87.191.86:8082/clash/proxies
@@ -51,7 +50,6 @@ https://raw.githubusercontent.com/mlabalabala/v2ray-node/main/nodefree4clash.txt
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
 https://raw.githubusercontent.com/supprise0408/V2RayAggregator/master/sub/airport_merge_base64.txt
 http://20.212.248.250:12588/clash/proxies
-https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt
 https://raw.githubusercontent.com/pctit/v2/main/v2.txt
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
@@ -119,7 +117,6 @@ https://raw.githubusercontent.com/jw853355718/clash_233/master/speed.yaml
 https://raw.githubusercontent.com/igeekshare/GeekshareFreeNode/main/v2ray/Geekshare.txt
 https://sub.sharecentre.online/sub
 https://proxy.yugogo.xyz/clash/proxies
-https://sub.pmsub.me/clash.yaml
 https://raw.githubusercontent.com/HakurouKen/free-node/main/public
 https://raw.githubusercontent.com/rxsweet/proxies/main/sub/sources/dynamicAll.yaml
 https://raw.githubusercontent.com/245237866/v2rayn/main/everydaynode
@@ -138,7 +135,6 @@ https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/https
 https://raw.githubusercontent.com/Jia-Pingwa/free-v2ray-merge/main/output.txt
 https://raw.githubusercontent.com/Mahanfix/v2rayvpn/main/mahanfix
 https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili
-https://sub.pmsub.me/base64
 https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all2
 https://raw.githubusercontent.com/Tenerome/v2ray/main/vmess.txt
@@ -146,12 +142,9 @@ https://rvorch.treze.cc/clash/proxies
 https://free.zlcom.ml/clash/proxies
 https://hosts.daohangs.xyz/clash/proxies
 https://zhfree.onrender.com/clash/proxies
-https://zhfree.onrender.com/clash/proxies
 https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://free.dsdog.tk/clash/proxies
-https://rvorch.treze.cc/clash/proxies
 https://sub.sharecentre.online/sub&flag=clash
-https://raw.githubusercontent.com/renyige1314/CLASH/main/CLASH
 https://raw.fastgit.org/codingbox/Free-Node-Merge/main/node.txt
 https://proxies.haisto.cn/clash/proxies
 http://rot.9o9.top:880/clash/proxies
