@@ -1,11 +1,8 @@
 # proxypool
 
 ![Static Badge](https://img.shields.io/badge/ss|vmess|trojan-free-orange)
-<a href="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool" alt="visitor">
-</a>
-[![last commit](https://img.shields.io/github/last-commit/snakem982/proxypool)](https://github.com/snakem982/proxypool/commits/main)
-[![commit activity](https://img.shields.io/github/commit-activity/w/snakem982/proxypool)](https://github.com/snakem982/proxypool/commits/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/snakem982/proxypool?color=DC52FC)
 
 
 超级clash节点池聚合.
@@ -29,16 +26,19 @@ The following is a self-built node cost-effective server recommendation:
 - [2000G/月Month 1000Mbps 1C1G $11.38/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
 - [3000G/月Month 1000Mbps 1C2G $19.89/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
 
+## 机糖推荐
+- [500G/月 多地BGP部署 晚高峰4K秒开 年付只要11元 你没看错年付只要 11 元 便宜机糖](https://xn--wtq35pfyd55o.com/#/register?code=rTurUZ38 "便宜机糖")
+
 ## 免费ss、vmess、trojan节点订阅地址，每小时更新。<br/>Free ss, vmess, trojan node subscription addresses, updated hourly.
 https://wanshanziwo.eu.org
 
 ## 备用订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
 ### clash
-https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml  (需要魔法)
+https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml  (需要魔法 Need Proxy)
 https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
 https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/clash.yaml
 ### v2ray
-https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt  (需要魔法)
+https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt  (需要魔法 Need Proxy)
 https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray.txt
 
