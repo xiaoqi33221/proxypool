@@ -69,7 +69,6 @@ https://raw.githubusercontent.com/Flik6/getNode/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/main/Clash.yaml
 https://raw.githubusercontent.com/freefq/free/master/v2
 https://raw.githubusercontent.com/freenodes/freenodes/main/clash.yaml
-https://raw.githubusercontent.com/HakurouKen/free-node/main/public
 https://raw.githubusercontent.com/hsb4657/v2ray/main/lastest.txt
 https://raw.githubusercontent.com/igeekshare/GeekshareFreeNode/main/clash/Geekshare.yaml
 https://raw.githubusercontent.com/imohammadkhalili/V2RAY/main/Mkhalili
@@ -144,3 +143,5 @@ https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/clash/vmes
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/ZY-404/v2ray/main/v2ray.txt
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
+https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt
+https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt

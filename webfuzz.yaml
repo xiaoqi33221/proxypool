@@ -1,44 +1,36 @@
-# 网页模糊抓取
+# 20230708
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/mianfeifq/share/main/README.md
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
-# 网页模糊抓取
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/README.md
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt
 
-# 网页模糊抓取
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/All_Configs_Sub.txt
@@ -52,7 +44,6 @@
   options:
     url: https://raw.githubusercontent.com/yaney01/Yaney01/main/README.md
 
-
 # 20230710
 - type: webfuzz
   options:
@@ -62,3 +53,8 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/AlienVPN402/AlienVPN402-subscribe-servers/main/index.html
+
+# 20230729
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/HakurouKen/free-node/main/public
