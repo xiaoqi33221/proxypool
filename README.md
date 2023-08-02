@@ -34,13 +34,13 @@ https://wanshanziwo.eu.org
 
 ## 备用订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
 ### clash
-https://raw.githubusercontent.com/snakem982/proxypool/main/clashb7fc0.yaml  (需要魔法 Need Proxy)
-https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clashb7fc0.yaml
-https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/clashb7fc0.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/clash31d37.yaml  (需要魔法 Need Proxy)
+https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clash31d37.yaml
+https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/clash31d37.yaml
 ### v2ray
-https://raw.githubusercontent.com/snakem982/proxypool/main/v2rayb7fc0.txt  (需要魔法 Need Proxy)
-https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2rayb7fc0.txt
-https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2rayb7fc0.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray31d37.txt  (需要魔法 Need Proxy)
+https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray31d37.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/snakem982/proxypool/main/v2ray31d37.txt
 
 
 ## 免责声明 <br/>Disclaimer
