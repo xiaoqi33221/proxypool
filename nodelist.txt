@@ -27,7 +27,6 @@ http://haohaoxiong.myqnapcloud.com:12580/clash/proxies
 http://jeplove.f3322.net:12580/clash/proxies
 http://rot.9o9.top:880/clash/proxies
 http://ypgt.tk:12580/clash/proxies
-https://101.64.235.179:8443/clash/proxies
 https://129.152.6.169/clash/proxies
 https://clash.myvm.cc/clash/proxies
 https://clashe.eu.org/clash/proxies
@@ -35,8 +34,6 @@ https://fetchjiedian.feisu360.xyz/clash/proxies
 https://free.dsdog.tk/clash/proxies
 https://free.iam7.tk/clash/proxies
 https://free.jingfu.cf/clash/proxies
-https://free.xclash.workers.dev
-https://free.zlcom.ml/clash/proxies
 https://freefq.neocities.org/free.txt
 https://hosts.daohangs.xyz/clash/proxies
 https://kiwi2.cgweb.top/clash/proxies
