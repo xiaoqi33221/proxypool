@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://raw.githubusercontent.com/bingoYB/node_processing/main/dist/all.yaml
 https://raw.githubusercontent.com/Creativveb/v2configs/main/updated
 https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
-https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml
 https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://raw.githubusercontent.com/Flik6/getNode/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/main/Clash.yaml
