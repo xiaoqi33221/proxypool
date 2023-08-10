@@ -25,14 +25,6 @@
 
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt
-
-- type: webfuzz
-  options:
-    url: https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt
-
-- type: webfuzz
-  options:
     url: https://raw.githubusercontent.com/Bardiafa/Free-V2ray-Config/main/All_Configs_Sub.txt
 
 # 20230709
