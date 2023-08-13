@@ -45,3 +45,8 @@
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/HakurouKen/free-node/main/public
+
+# 20230813
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/proxies_row_url.txt
