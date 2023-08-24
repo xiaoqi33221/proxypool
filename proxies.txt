@@ -55,3 +55,4 @@ https://www.timefish.xyz/clash/proxies
 https://zhfree.alienergy.eu.org/clash/proxies
 https://zhfree.onrender.com/clash/proxies
 https://sub.sharecentre.online/sub&flag=clash
+https://sub.pmsub.me/clash.yaml

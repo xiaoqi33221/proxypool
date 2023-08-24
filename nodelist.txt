@@ -80,5 +80,5 @@ https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality
-
+https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes
 
