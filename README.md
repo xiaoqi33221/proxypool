@@ -1,4 +1,4 @@
-# proxypool
+# 小七节点池
 
 ![Static Badge](https://img.shields.io/badge/ss|vmess|trojan-free-orange)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=snakem982.proxypool" alt="visitor">
