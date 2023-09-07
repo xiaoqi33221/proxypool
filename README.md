@@ -24,7 +24,7 @@ The following is a self-built node cost-effective server recommendation:
 
 
 
-## 订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
+## 订阅地址，两个小时更新一次
 ### clash
 https://raw.githubusercontent.com/snakem982/proxypool/main/clash058fb.yaml  (需要魔法 Need Proxy)
 https://ghproxy.com/https://raw.githubusercontent.com/snakem982/proxypool/main/clash058fb.yaml
