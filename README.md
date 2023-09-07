@@ -21,13 +21,8 @@ Long-term use is not recommended! ! !</font><br/>
 若要持续、稳定、安全、高速的节点请自建，下面是高性价比服务器推荐：<br/>
 If you want a continuous, stable, safe, and high-speed node, please build it yourself.
 The following is a self-built node cost-effective server recommendation:
-- [500G/月Month 100Mbps 1C2G ￥168.00/年Year 香港野草云特惠](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
-- [600G/月Month 100Mbps 2C4G ￥188.00/年Year 香港野草云特惠](https://my.yecaoyun.com/aff.php?aff=2550 "香港野草云")
-- [2000G/月Month 1000Mbps 1C1G $11.38/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
-- [3000G/月Month 1000Mbps 1C2G $19.89/年Year 美国RackNerd促销](https://my.racknerd.com/aff.php?aff=8613 "美国RackNerd")
 
-## 免费ss、vmess、trojan节点订阅地址，每小时更新。<br/>Free ss, vmess, trojan node subscription addresses, updated hourly.
-https://wanshanziwo.eu.org
+
 
 ## 备用订阅地址，两个小时更新一次。<br/>Alternate subscription address, updated every two hours.
 ### clash
