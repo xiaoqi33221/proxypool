@@ -1,0 +1,32 @@
+创建战队: /clan create TY
+战队拉人: /clan invite
+加入战队: /clan join TY
+取消传送: /tpc
+接受交易:/trade yes
+传送前哨: /outpost
+传送强盗: /bandit
+白嫖皮肤: /skinbox
+强制拆除: /remove
+设置home1: /sethome 1
+设置home2: /sethome 2
+传送home1: /home 1
+传送home2: /home 2
+删除home1: /home remove 1
+删除home2: /home remove 2
+召唤小飞机: /mymini
+删除小飞机: /onmini
+设置战队home点: /clan sethome
+Vieal设置战队home点: /setclanhome
+传送战队home点: /clan home
+一键升级铁: /bgrade 3
+一键升级钢: /bgrade 4
+TP 小七: /tpr xiaoqi
+TP 大仙: /tpr LDX
+TP 孑友: /tpr laity
+TP 77 没有毛: /tpr ling77
+TP 小草: /tpr xiaocao
+TP 汤圆: /tpr tang
+自定义1: 输入你的自定义
+自定义2: 输入你的自定义
+自定义3: 输入你的自定义
+自定义4: 输入你的自定义
